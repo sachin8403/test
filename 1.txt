@@ -1,2 +1,2 @@
 #!/bin/bash
-uptime; date; hostname; hostname -I
+uptime; date; hostname; hostname -I; whoami; which bash
